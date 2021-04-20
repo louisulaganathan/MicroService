@@ -3,8 +3,8 @@
 
   1 An application design.<br/>
   2 Any application is designed in such a way. <br/>
-    1 it will be released once in every few months<br/>
-    2 it will have wide range of features & functionalities<br/>
+    -1 it will be released once in every few months<br/>
+    -2 it will have wide range of features & functionalities<br/>
     3 more number of people working on it[50+]<br/>
     4 debugging and adopting new technology or process is challenging or almost impossible<br/>
     5 it will be huge more than 1M lines of code<br/>
