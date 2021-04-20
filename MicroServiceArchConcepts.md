@@ -57,10 +57,11 @@ These programs are grouped to deliver all the functionalities of the big monolit
   - Data as a Service => DaaS
   - Backend as a Service => BaaS
 
-  => Each microservice has its own DB.
-  => One Microservice can performs Create, Read, Update  & Delete operations on a data source.
+  => Each microservice has its own DB.<br/>
+  => One Microservice can performs Create, Read, Update  & Delete operations on a data source.<br/>
   
   
+<img width="1440" alt="Screen Shot 2021-04-20 at 12 01 53 PM" src="https://user-images.githubusercontent.com/74425320/115436090-35093f00-a1d0-11eb-9713-30aff6463e81.png"> 
   
   * 
 
