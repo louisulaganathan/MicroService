@@ -66,6 +66,16 @@ These programs are grouped to deliver all the functionalities of the big monolit
   ![eshoponcontainers-development-architecture](https://user-images.githubusercontent.com/74425320/115436740-ef00ab00-a1d0-11eb-837d-d45397efdc13.png)
 
 
+## Advantages ##
+
+  * Autonomous/Independent developement
+  * Independent deployment
+  * Technology diversity
+  * Fault isolation. Entire system will not be down even if one service is down.
+  * Granular scaling.
+
+
+
 
 
 
