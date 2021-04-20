@@ -23,6 +23,47 @@ These programs are grouped to deliver all the functionalities of the big monolit
 ## Microservices ##
 -----------------
 
+  * Microservice arch is an approach to build a server application as a set of small services.
+  * It is mainly oriented to the backend for building services but it is being used for front end as well which will be called Micro UI.
+  * Each process will run on its own process and communicate with each other processes using protocals like http/https, websocket & AMQP.
+  * Each microservice implements specific end to end domain or business capability.
+  * Each microservice must be developed autonomously and deployed independently.
+  * Each microservice should own its related domain  data model on different data storage technologies and different programming technologies.
+  * It is important that each microservices should be loosely coupled services make them as small as possible.
+
+
+## Why? ##
+----------
+  * It provides long term agility.
+  * Monolith applns can be scalled out as a single unit, where as microservices arch, each microservices can be scalled out.
+  * Each services are independently versioned, executed and scaled.
+  * Cloud platform & microservices lend themselves to newer technologies like containerization.
+
+## Best Prctices ##
+-------------------
+
+  * Seperate the data store for each microservice.
+  * Seperate the build for each microservice.
+  * Always treat server as stateless.
+  * Its is a open source3 methodology.
+  * SOA is a design pattern but microservice is an implementation methodology for SOA.
+
+## Categories of Services ##
+----------------------------
+
+  - Platform as a Service => PaaS
+  - Software as a Service => SaaS
+  - Infrastructure as a Service => Iaas
+  - Data as a Service => DaaS
+  - Backend as a Service => BaaS
+
+  => Each microservice has its own DB.
+  => One Microservice can performs Create, Read, Update  & Delete operations on a data source.
+  
+  
+  
+  * 
+
 
 
 
