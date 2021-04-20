@@ -1,4 +1,4 @@
-![eshoponcontainers-development-architecture](https://user-images.githubusercontent.com/74425320/115436686-e14b2580-a1d0-11eb-9c0e-0102906c114b.png)
+
 **Monolith Application**
 -----------------------
 
